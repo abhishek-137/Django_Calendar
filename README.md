@@ -39,9 +39,7 @@ Here are the steps you can follow to create a Google Calendar API in the Google 
 1. Install Python and Django on your machine
 2. Clone or download the project from the repository
 3. Navigate to the project directory in the command line
-4. Run  command `pip install virtualenv` to install virtual environment
-5. Run command `source//venv//Scripts//activate` to start virtual environment
-6. Run  command `pip install -r requirements.txt` to install the project dependencies
-7. Run  command `python manage.py migrate` to apply the migrations to the database
-8. Run  command `python manage.py runserver` to start the development server
-9. Visit "http://127.0.0.1:8000/" in your web browser to see the project running
+4. Run  command `pip install -r requirements.txt` to install the project dependencies
+5. Run  command `python manage.py migrate` to apply the migrations to the database
+6. Run  command `python manage.py runserver` to start the development server
+7. Visit "http://127.0.0.1:8000/" in your web browser to see the project running
